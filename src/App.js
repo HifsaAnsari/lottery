@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import Ball from './component/Ball';
+// import Ball from './component/Ball';
 import Lotty from './component/Lotty';
 
 function App() {
